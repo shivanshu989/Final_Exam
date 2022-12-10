@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to right, white, orange);
+  background-color: linear-gradient(to right, white, orange);
 }
 ::selection {
   color: #fff;
